@@ -15,6 +15,7 @@
     width: 80%;
     margin-left: 20px;
     color: cadetblue;
+    font-size: 12px;
 }
 .content .info{
     display: flex;
@@ -27,4 +28,5 @@
     overflow: hidden;
     color: grey;
     line-height: 20px;
+    font-size: 13px;
 }
