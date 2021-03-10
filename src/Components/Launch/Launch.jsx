@@ -4,7 +4,7 @@ import './style.css'
 export default class Launch extends React.Component {
     render() {
         return(
-            <div className="launch-card">
+            <div className="Launch">
                 <img alt="" src={this.props.banner} />
                 <div className="content">
                     <div className="info">
