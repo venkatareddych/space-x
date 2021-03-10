@@ -1,0 +1,9 @@
+.LaunchList{
+    width: 750px;
+    margin:auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.LaunchList .launch-card{
+    margin-bottom: 20px;
+}
