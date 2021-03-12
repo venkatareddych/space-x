@@ -26,11 +26,14 @@ export default class LaunchesList extends React.Component {
     }
 
     launchList = () => {
-     let launchListComponents =   this.state.launches.map(launch => {
+     let launchListComponents =   this.state.launches.map((launch,index) => {
          let image = launch.links.flickr_images.length === 0 ? 
-        'https://www.nasa.gov/sites/default/files/images/367208main_road2apollo-22b_full.jpg' :
+        'https://www.extremetech.com/wp-content/uploads/2020/06/spacex-crew-launch-nasa.jpg' :
          launch.links.flickr_images[0];
+
+
             return <Launch 
+              key = {'launch_'+index}   // to avoid errors in the consoles each child should have specific key
               banner ={image}
               title={launch.mission_name}
               date = {launch.launch_date_local}
@@ -41,7 +44,6 @@ export default class LaunchesList extends React.Component {
     }
 
     render() {
-        console.log(this.state.launches.[0])
 
         return (
                 <div className="LaunchList">
