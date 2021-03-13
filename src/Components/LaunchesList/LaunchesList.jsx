@@ -15,8 +15,7 @@ export default class LaunchesList extends React.Component {
     }
 
     getLaunches = () => {
-        axios.get('https://api.spacexdata.com/v3/launches')
-        .then((response) => {
+        axios.get('https://api.spacexdata.com/v3/launches').then((response) => {
            this.setState({
                launches : response.data
            })
@@ -51,7 +50,6 @@ export default class LaunchesList extends React.Component {
     }
 
     render() {
-
         return (
                 <div className="LaunchList">
                     {this.launchList()}

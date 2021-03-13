@@ -1,0 +1,21 @@
+.viewstyles{
+    display: flex;
+}
+.viewstyles h1{
+    width: 300px;
+    font-size: 20px;
+    color: cadetblue;
+}
+.launch-view h1 {
+    font-size: 20px;
+    color: cadetblue;
+}
+.launch-view {
+    max-width: 1000px;
+    margin:auto;
+    margin-top: 20px;
+    margin-left: 300px;
+}
+.launch-view p{
+    color: grey;
+}
