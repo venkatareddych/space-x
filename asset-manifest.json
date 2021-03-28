@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/venkatareddychinnapareddy/space-x/static/css/main.74d70851.chunk.css",
+    "main.js": "/venkatareddychinnapareddy/space-x/static/js/main.b1ec3b76.chunk.js",
+    "main.js.map": "/venkatareddychinnapareddy/space-x/static/js/main.b1ec3b76.chunk.js.map",
+    "runtime-main.js": "/venkatareddychinnapareddy/space-x/static/js/runtime-main.440c4589.js",
+    "runtime-main.js.map": "/venkatareddychinnapareddy/space-x/static/js/runtime-main.440c4589.js.map",
+    "static/css/2.0ccb862f.chunk.css": "/venkatareddychinnapareddy/space-x/static/css/2.0ccb862f.chunk.css",
+    "static/js/2.9639951f.chunk.js": "/venkatareddychinnapareddy/space-x/static/js/2.9639951f.chunk.js",
+    "static/js/2.9639951f.chunk.js.map": "/venkatareddychinnapareddy/space-x/static/js/2.9639951f.chunk.js.map",
+    "static/js/3.3d98adc2.chunk.js": "/venkatareddychinnapareddy/space-x/static/js/3.3d98adc2.chunk.js",
+    "static/js/3.3d98adc2.chunk.js.map": "/venkatareddychinnapareddy/space-x/static/js/3.3d98adc2.chunk.js.map",
+    "index.html": "/venkatareddychinnapareddy/space-x/index.html",
+    "static/css/2.0ccb862f.chunk.css.map": "/venkatareddychinnapareddy/space-x/static/css/2.0ccb862f.chunk.css.map",
+    "static/css/main.74d70851.chunk.css.map": "/venkatareddychinnapareddy/space-x/static/css/main.74d70851.chunk.css.map",
+    "static/js/2.9639951f.chunk.js.LICENSE.txt": "/venkatareddychinnapareddy/space-x/static/js/2.9639951f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.440c4589.js",
+    "static/css/2.0ccb862f.chunk.css",
+    "static/js/2.9639951f.chunk.js",
+    "static/css/main.74d70851.chunk.css",
+    "static/js/main.b1ec3b76.chunk.js"
+  ]
+}
